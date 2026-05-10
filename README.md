@@ -1,4 +1,5 @@
-# Chrono-Tide 时之汐
+# Chrono-Tide 时之汐<img width="2003" height="1917" alt="1777655558716" src="https://github.com/user-attachments/assets/a6b87eb1-b34c-42e9-b973-8d22a4c90c16" />
+
 Galgame 一体化游戏库管理工具
 【Chrono Tide｜剧情向游戏玩家专属管理工具】
 ✅ 本地游戏一键入库，方便管理
