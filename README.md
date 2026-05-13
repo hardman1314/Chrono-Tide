@@ -1,6 +1,6 @@
-Chrono-Tide 时之汐
-【Chrono Tide｜剧情向游戏玩家专属管理工具】<img width="450ps" height="450ps" alt="1777655558716" src="https://github.com/user-attachments/assets/c39c143c-22d7-4030-8882-3f295af32cea" />
+Chrono-Tide 时之汐<img width="450ps" height="450ps" alt="1777655558716" src="https://github.com/user-attachments/assets/2afd1014-098e-402e-891c-77beec6fda32" />
 
+【Chrono Tide｜剧情向游戏玩家专属管理工具】
 
 ✅ 本地游戏一键入库，方便管理
 ✅ 简暖风格UI，氛围感拉满
